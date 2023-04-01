@@ -9,10 +9,14 @@ PYHASH é um programa bem sismples feito em Python que cria um hash de qualquer 
  git clone https://github.com/DsK-David/PYHASH.git
 
  ```
+Rodar
  ```
  cd PYHASH
  python pyhash.py
  ``` 
-para testar o hash colocando a senha para ver se o hash ta serto 
+para testar o hash colocando a senha para ver se o hash ta certo 
+```
+python testhash.py
+```
 
 
